@@ -1,2 +1,24 @@
 theme: jekyll-theme-time-machine
-Title: Welcome to Paul Turcotte's Homepage
+title: Welcome to Paul Turcotte's Homepage
+
+*This text will be Bold...*
+**This text will be italic **
+1. Item 1
+1. Item 2
+* Item 1
+* Item 2
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+As I said:
+
+> This is Github.
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
